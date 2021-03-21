@@ -1,0 +1,3 @@
+[submodule "Javascript/esgi-javascript"]
+	path = Javascript/esgi-javascript
+	url = https://github.com/kmarques/esgi-javascript/
