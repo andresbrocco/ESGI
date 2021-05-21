@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":308:{a:2:{s:7:"defects";a:1:{s:31:"CalculatriceTest::testDivByZero";i:4;}s:5:"times";a:5:{s:25:"CalculatriceTest::testAdd";d:0.003;s:32:"CalculatriceTest::testSubNominal";d:0;s:33:"CalculatriceTest::testSubNegative";d:0;s:32:"CalculatriceTest::testMulNominal";d:0;s:31:"CalculatriceTest::testDivByZero";d:0.001;}}}
