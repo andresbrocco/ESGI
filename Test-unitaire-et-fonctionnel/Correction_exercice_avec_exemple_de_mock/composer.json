@@ -1,0 +1,24 @@
+{
+    "name": "phpunir/phpunit",
+    "authors": [
+        {
+            "name": "Maurizio Moreo",
+            "email": "maurizio.moreo@gmail.com"
+        }
+    ],
+    "require": {
+        "mockery/mockery": "^1.3",
+        "phpunit/phpunit": "*",
+        "nesbot/carbon": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "Calculatrice.php",
+            "User.php",
+            "UserBis.php",
+            "ExternalAPIs.php"
+        ]
+    },
+    "license": "MIT",
+    "description": ""
+}
